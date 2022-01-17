@@ -4,6 +4,6 @@ public class HelloWorld {
     // ilk degisikligi yap ondan sonra git in icinden commit e tikala
     // sonrada changes leri secmeklazim ki degisikleri kaydetsin.
     // Doing awesome  work3
-    // Awesome  workk 3 is done and reasy to be committed.
+    // Awesome  workk 3 is done and reasy to be committed..
 
 }
